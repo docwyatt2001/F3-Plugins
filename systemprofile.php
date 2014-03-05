@@ -1,22 +1,22 @@
 <?php
 
 /**
-	System Profile plugin for the PHP Fat-Free Framework
-	Can be used with Nagios or F3's throttling feature, amongst other things.
+        System Profile plugin for the PHP Fat-Free Framework
+        Can be used with Nagios or F3's throttling feature, amongst other things.
+        
+        The contents of this file are subject to the terms of the GNU General
+        Public License Version 3.0. You may not use this file except in
+        compliance with the license. Any of the license terms and conditions
+        can be waived if you get permission from the copyright holder.
+        
+        Copyright (c) 2010-2011 Killsaw
+        Steven Bredenberg <steven@killsaw.com>
+        
+        Modified 2014 Fallen Komrades Development
+        Malcolm White <docwyatt@fallenkomrades.id.au>
 
-	The contents of this file are subject to the terms of the GNU General
-	Public License Version 3.0. You may not use this file except in
-	compliance with the license. Any of the license terms and conditions
-	can be waived if you get permission from the copyright holder.
-
-	Copyright (c) 2010-2011 Killsaw
-	Steven Bredenberg <steven@killsaw.com>
-
-  Modified 2014 Fallen Komrades Development
-  Malcolm White <docwyatt@fallenkomrades.id.au>
-
-		@package SystemProfile
-		@version 1.0.1
+            @package SystemProfile
+            @version 1.0.1
 **/
 
 //! Plugin for retrieving information about the current system.
